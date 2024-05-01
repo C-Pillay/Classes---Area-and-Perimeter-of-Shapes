@@ -1,0 +1,10 @@
+C:\Users\calvi\source\repos\Shapes Classes\bin\Debug\Shapes Classes.exe.config
+C:\Users\calvi\source\repos\Shapes Classes\bin\Debug\Shapes Classes.exe
+C:\Users\calvi\source\repos\Shapes Classes\bin\Debug\Shapes Classes.pdb
+C:\Users\calvi\source\repos\Shapes Classes\obj\Debug\Shapes Classes.csproj.AssemblyReference.cache
+C:\Users\calvi\source\repos\Shapes Classes\obj\Debug\Shapes_Classes.Form1.resources
+C:\Users\calvi\source\repos\Shapes Classes\obj\Debug\Shapes_Classes.Properties.Resources.resources
+C:\Users\calvi\source\repos\Shapes Classes\obj\Debug\Shapes Classes.csproj.GenerateResource.cache
+C:\Users\calvi\source\repos\Shapes Classes\obj\Debug\Shapes Classes.csproj.CoreCompileInputs.cache
+C:\Users\calvi\source\repos\Shapes Classes\obj\Debug\Shapes Classes.exe
+C:\Users\calvi\source\repos\Shapes Classes\obj\Debug\Shapes Classes.pdb
